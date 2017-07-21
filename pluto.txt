@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Pluto really is a planet.
 
 Another random change!
+=======
+It is so a planet!
+My newest change.
+>>>>>>> dd6d41306eb0299f83f58b2c2ba3c7e1039c9eff
